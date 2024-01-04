@@ -6,5 +6,6 @@ public class App {
 		System.out.println(Calculatrice.add(1, 5));
 		System.out.println(Calculatrice.add(2, 5));
 		System.out.println(Calculatrice.add(5, 5));
+		System.out.println(Calculatrice.multiplication(4, 5));
 	}
 }
